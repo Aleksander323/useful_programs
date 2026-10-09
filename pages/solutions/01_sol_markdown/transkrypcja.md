@@ -15,10 +15,7 @@ $$
 \frac{\partial^2}{\partial x^2}
 +\frac{\partial^2}{\partial y^2}
 +\frac{\partial^2}{\partial z^2}
-\right)
-\Psi(x,y,z)
-=
-E\Psi(x,y,z)
+\right) \Psi(x,y,z) = E \ \Psi(x,y,z)
 $$
 
 - energia:
