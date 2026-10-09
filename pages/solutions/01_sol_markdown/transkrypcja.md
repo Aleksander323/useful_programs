@@ -2,6 +2,14 @@
 
 ![zrzut](zrzut.png)
 
+## Prompt użyty do wygenerowania tekstu przez AI
+
+```
+Stwórz transkrypcję tekstu widocznego na wysłanym pliku png do kodu markdown.
+```
+
+## Finalna wersja notatki
+
 # 11. Co to są kropki kwantowe i jakie mają własności?
 
 - 0D struktura
