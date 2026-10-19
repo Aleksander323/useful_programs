@@ -19,6 +19,20 @@ Poza gęstością mamy również
 - wartość oczekiwaną równą 0,
 - wariancję równą 1.
 
+Symbolicznie zapisujemy to jako $\mathrm{E}[X] = 0$ oraz $\mathrm{Var}(X) = 1$.
+
+Dystrybuanta wyraża się wzorem
+
+$$
+\Phi(t) = \int_{-\infty}^{t} f(x) \ dx.
+$$
+
+Wyróżniamy również ogon rozkładu
+
+$$
+\Psi(t) = \int_{t}^{+\infty} f(x) \ dx = 1 - \Phi(t).
+$$
+
 ## 2. Kolejna podsekcja
 
 To jest ~~prosta~~ tabela
