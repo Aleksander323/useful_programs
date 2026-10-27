@@ -225,23 +225,23 @@ W tym modelu opór zmniejsza zasięg o około $36\%$. Lot z oporem trwa krócej,
 
 ![Porównanie torów rzutu idealnego i rzutu z oporem kwadratowym](files/rzut_ukosny/tory_ruchu.png)
 
-*Rysunek 1. Porównanie torów dla $v_0=33\ \mathrm{m/s}$ i $\alpha=40^\circ$. Opór obniża wierzchołek i skraca zasięg.*
+*Rysunek 1.* Porównanie torów dla $v_0=33\ \mathrm{m/s}$ i $\alpha=40^\circ$. Opór obniża wierzchołek i skraca zasięg.
 
 ![Współrzędne pozioma i pionowa w funkcji czasu dla rzutu z oporem](files/rzut_ukosny/wspolrzedne_czas.png)
 
-*Rysunek 2. Współrzędna pozioma rośnie coraz wolniej, ponieważ opór zmniejsza $v_x$. Współrzędna pionowa osiąga maksimum, a następnie wraca do poziomu gruntu.*
+*Rysunek 2.* Współrzędna pozioma rośnie coraz wolniej, ponieważ opór zmniejsza $v_x$. Współrzędna pionowa osiąga maksimum, a następnie wraca do poziomu gruntu.
 
 ![Składowe prędkości poziomej i pionowej w funkcji czasu](files/rzut_ukosny/predkosci_czas.png)
 
-*Rysunek 3. Składowa pozioma maleje przez cały lot. Składowa pionowa zmienia znak w najwyższym punkcie toru.*
+*Rysunek 3.* Składowa pozioma maleje przez cały lot. Składowa pionowa zmienia znak w najwyższym punkcie toru.
 
 ![Energia kinetyczna, potencjalna i mechaniczna w funkcji czasu](files/rzut_ukosny/energia.png)
 
-*Rysunek 4. Energia potencjalna rośnie podczas wznoszenia i maleje podczas opadania. Suma energii kinetycznej i potencjalnej maleje wskutek pracy siły oporu.*
+*Rysunek 4.* Energia potencjalna rośnie podczas wznoszenia i maleje podczas opadania. Suma energii kinetycznej i potencjalnej maleje wskutek pracy siły oporu.
 
 ![Zasięg jako funkcja kąta wyrzutu, z oporem i bez oporu](files/rzut_ukosny/zasieg_kat.png)
 
-*Rysunek 5. Przy braku oporu największy zasięg występuje dla $45^\circ$. Dla przyjętej kuli krzywa z oporem ma maksimum w pobliżu $42^\circ$; wartość zależy od parametrów aerodynamicznych i modelu.*
+*Rysunek 5.* Przy braku oporu największy zasięg występuje dla $45^\circ$. Dla przyjętej kuli krzywa z oporem ma maksimum w pobliżu $42^\circ$; wartość zależy od parametrów aerodynamicznych i modelu.
 
 ## 6. Kod i odtwarzanie wyników
 
